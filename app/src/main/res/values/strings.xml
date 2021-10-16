@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Counter APP</string>
+    <string name="hello_world">Hello Sandro!</string>
+
+    <string name="floating_button_description">Hello Sandro!</string>
 </resources>
